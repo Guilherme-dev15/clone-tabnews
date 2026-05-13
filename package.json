@@ -1,0 +1,26 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Guilherme-dev15/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/Guilherme-dev15/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme-dev15/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
